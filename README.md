@@ -1,2 +1,5 @@
-# Computer Science Lunar Lander Course Work
-A git repo to version control and backup my course work.
+# Lunar Lander - Course Work
+Version controll for the course work document.
+
+## TODO
+- 
