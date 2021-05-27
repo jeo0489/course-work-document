@@ -1,5 +1,2 @@
 # Lunar Lander - Course Work
-Version controll for the course work document.
-
-## TODO
-- 
+Version controll for the course work document. 
