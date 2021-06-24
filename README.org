@@ -1,0 +1,20 @@
+#+TITLE: Lunar Lander
+#+AUTHOR: John Osborne
+
+* Lunar Lander
+A git repo to contain my course work and any other related resources.
+**  Versions
+*** 0.1
+Sections that have their first draft:
+- Analysis
+  - Project Identification
+  - Comupational Methods
+  - Stakeholders
+- Initial Research
+** To add/change [0%]
+- Stakeholders [ ]
+- Hardware and Software requirements [ ]
+  - Requirements for development
+  - Requirements for running final product
+- Justify approaches
+- 
