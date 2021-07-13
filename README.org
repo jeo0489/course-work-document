@@ -12,9 +12,9 @@ Sections that have their first draft:
   - Stakeholders
 - Initial Research
 ** To add/change [0%]
-- Stakeholders [ ]
-- Hardware and Software requirements [ ]
-  - Requirements for development
-  - Requirements for running final product
-- Justify approaches
-- 
+- [ ] Stakeholders
+- [ ] Hardware and Software requirements
+  - [ ] Requirements for development
+  - [ ] Requirements for running final product
+- [ ] Mobile ports?
+- [ ] Justify approaches
